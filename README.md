@@ -8,12 +8,4 @@
 
 ❤️‍🔥 I'm in love with web3 techstack
 
-🧠 I’m currently learning Rust and Solidty
-
-## Github Contributes
-![](https://github-readme-stats.vercel.app/api?username=khanhhaquang&hide_border=false&include_all_commits=false&count_private=true)<br/>
-
-
----
-![](https://komarev.com/ghpvc/?username=khanhhaquang&label=Visitors+Count&color=brightgreen)
-
+🧠 I’m currently lost in AI agents
